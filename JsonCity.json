@@ -4,7 +4,7 @@
     "plaka": "01",
     "özellik": "Akdeniz Bölgesinde yer alan ilimiz",
     "nüfus": "2,22 milyon",
-    "sınıfı": "Büyükşehir",
+    "sinifi": "Büyükşehir",
     "gorsel": "https://www.kulturportali.gov.tr/repoKulturPortali/large/SehirRehberi//GezilecekYer/20190111110947922_THK%20ORHAN%20OZGULBAS%20ADANA%20Seyhan%20Nehri%20Taskopru%20logolu.jpg?format=jpg&quality=50"
   },
   {
@@ -12,7 +12,7 @@
     "plaka": "02",
     "özellik": "Güneydoğu Anadolu Bölgesinde yer alan ilimiz",
     "nüfus": "632.148",
-    "sınıfı": "Büyükşehir değil",
+    "sinifi": "Büyükşehir değil",
     "gorsel": "https://im.haberturk.com/2021/06/08/ver1623160728/3097953_810x458.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "plaka": "03",
     "özellik": "Ege Bölgesinde yer alan ilimiz",
     "nüfus": "539.657",
-    "sınıfı": "Büyükşehir değil",
+    "sinifi": "Büyükşehir değil",
     "gorsel": "https://im.haberturk.com/2021/06/08/ver1623160728/3097953_810x458.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "plaka": "04",
     "özellik": "Doğu Anadolu Bölgesinde yer alan ilimiz",
     "nüfus": "744.179",
-    "sınıfı": "Büyükşehir değil",
+    "sinifi": "Büyükşehir değil",
     "gorsel": "https://im.haberturk.com/2019/03/25/ver1553498620/2413108_810x458.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "plaka": "05",
     "özellik": "Karadeniz Bölgesinde yer alan ilimiz",
     "nüfus": "335.331",
-    "sınıfı": "Büyükşehir değil",
+    "sinifi": "Büyükşehir değil",
     "gorsel": "https://iasbh.tmgrup.com.tr/39ab1c/650/344/0/97/727/480?u=https://isbh.tmgrup.com.tr/sbh/2022/06/27/amasya-nerede-amasya-hangi-bolgede-nereye-yakin-ve-nasil-gidilir-k1-1656315819678.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "plaka": "06",
     "özellik": "İç Anadolu Bölgesinde yer alan ilimiz",
     "nüfus": "5,663 milyon",
-    "sınıfı": "Büyükşehir, Başkent",
+    "sinifi": "Büyükşehir, Başkent",
     "gorsel": "https://assets.enuygun.com/media/lib/570x400/uploads/image/ankara-35906.jpeg"
   },
   {
@@ -52,7 +52,7 @@
     "plaka": "07",
     "özellik": "Akdeniz Bölgesinde yer alan ilimiz",
     "nüfus": "744.179",
-    "sınıfı": "Büyükşehir",
+    "sinifi": "Büyükşehir",
     "gorsel": "https://www.kiralacar.com/blog/wp-content/uploads/2019/07/Antalya-Gezi-Rehberi-T%C3%BCrkiyenin-G%C3%B6zde-%C5%9Eehri-Hakk%C4%B1nda-Bilgiler.jpg"
   },
   {
@@ -60,7 +60,7 @@
     "plaka": "08",
     "özellik": "Karadeniz Bölgesinde yer alan ilimiz",
     "nüfus": "169.543",
-    "sınıfı": "Büyükşehir değil",
+    "sinifi": "Büyükşehir değil",
     "gorsel": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Artvin-2611076.jpg/1200px-Artvin-2611076.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "plaka": "09",
     "özellik": "Ege Bölgesinde yer alan ilimiz",
     "nüfus": "1.134.031",
-    "sınıfı": "Büyükşehir",
+    "sinifi": "Büyükşehir",
     "gorsel": "https://img-s2.onedio.com/id-6218ddec1085d5b6373baf14/rev-0/w-620/f-jpg/s-da32a52ca8209c83236a516747a44fce965f7fc4.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "plaka": "10",
     "özellik": "Marmara Bölgesinde yer alan ilimiz",
     "nüfus": "1,227 milyon",
-    "sınıfı": "Büyükşehir",
+    "sinifi": "Büyükşehir",
     "gorsel": "https://i4.hurimg.com/i/hurriyet/75/1110x740/5ed75fb418c7730ec03bf9f8.jpg"
   }
 ]
