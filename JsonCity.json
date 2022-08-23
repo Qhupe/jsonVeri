@@ -78,5 +78,85 @@
     "nüfus": "1,227 milyon",
     "sinifi": "Büyükşehir",
     "gorsel": "https://i4.hurimg.com/i/hurriyet/75/1110x740/5ed75fb418c7730ec03bf9f8.jpg"
+  },
+  {
+    "isim": "Bilecik",
+    "plaka": "11",
+    "özellik": "Marmara Bölgesinde yer alan ilimiz",
+    "nüfus": "228.334",
+    "sinifi": "Büyükşehir değil",
+    "gorsel": "https://i.cnnturk.com/i/cnnturk/75/740x416/6083d786bf214429ac02d954.jpg"
+  },
+  {
+    "isim": "Bingöl",
+    "plaka": "12",
+    "özellik": "Doğu Anadolu Bölgesinde yer alan ilimiz",
+    "nüfus": "283.112",
+    "sinifi": "Büyükşehir değil",
+    "gorsel": "https://i.cnnturk.com/i/cnnturk/75/740x416/6083d786bf214429ac02d954.jpg"
+  },
+  {
+    "isim": "Bitlis",
+    "plaka": "13",
+    "özellik": "Doğu Anadolu Bölgesinde yer alan ilimiz",
+    "nüfus": "352.277",
+    "sinifi": "Büyükşehir değil",
+    "gorsel": "https://i4.hurimg.com/i/hurriyet/75/770x0/62067368c03c0e06e0af6a15.jpg"
+  },
+  {
+    "isim": "Bolu",
+    "plaka": "14",
+    "özellik": "Karadeniz Bölgesinde yer alan ilimiz",
+    "nüfus": "233.379",
+    "sinifi": "Büyükşehir değil",
+    "gorsel": "https://i20.haber7.net/resize/1280x720//haber/haber7/photos/2020/15/boluda_gezilecek_yerler_listesi_10_farkli_adres_1586701032_772.jpg"
+  },
+  {
+    "isim": "Burdur",
+    "plaka": "15",
+    "özellik": "Akdeniz Bölgesinde yer alan ilimiz",
+    "nüfus": "273.716",
+    "sinifi": "Büyükşehir değil",
+    "gorsel": "http://yurtmotoru.com/assets/img/iller/burdur.jpg"
+  },
+  {
+    "isim": "Bursa",
+    "plaka": "16",
+    "özellik": "Marmara Bölgesinde yer alan ilimiz",
+    "nüfus": "3.139.744",
+    "sinifi": "Büyükşehir",
+    "gorsel": "https://image.shutterstock.com/shutterstock/photos/1561661632/display_1500/stock-photo-bursa-turkey-november-years-old-ottoman-village-cumalikizik-it-is-popular-with-1561661632.jpg"
+  },
+  {
+    "isim": "Çanakkale",
+    "plaka": "17",
+    "özellik": "Marmara Bölgesinde yer alan ilimiz",
+    "nüfus": "542.157",
+    "sinifi": "Büyükşehir değil",
+    "gorsel": "https://i01.sozcucdn.com/wp-content/uploads/2018/03/iecrop/truva-ati-canakkale-gezilecek-yerler_16_9_1521542040.jpg"
+  },
+  {
+    "isim": "Çankırı",
+    "plaka": "18",
+    "özellik": "İç Anadolu Bölgesinde yer alan ilimiz",
+    "nüfus": "192.428",
+    "sinifi": "Büyükşehir değil",
+    "gorsel": "https://www.bilgipedia.com.tr/wp-content/uploads/2019/12/%C3%A7ank%C4%B1r%C4%B1.jpg"
+  },
+  {
+    "isim": "Çorum",
+    "plaka": "19",
+    "özellik": "Karadeniz Bölgesinde yer alan ilimiz",
+    "nüfus": "526.282",
+    "sinifi": "Büyükşehir değil",
+    "gorsel": "https://galeri5.uludagsozluk.com/3/corum_76898.jpg"
+  },
+  {
+    "isim": "Denizli",
+    "plaka": "20",
+    "özellik": "Ege Bölgesinde yer alan ilimiz",
+    "nüfus": "1,028 milyon",
+    "sinifi": "Büyükşehir",
+    "gorsel": "https://mediaim.expedia.com/destination/1/7605450404acca3a39d5a3a0b8078756.jpg"
   }
 ]
